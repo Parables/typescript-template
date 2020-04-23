@@ -1,11 +1,11 @@
 {
     "apps": [
         {
-            "name": "typescript-starter",
+            "name": "typescript-template",
             "script": "dist/app.js",
-            "watch": false,
+            "watch": true,
             "env": {
-                "NODE_ENV": "production"
+                "NODE_ENV": "development"
             }
         }
     ]
